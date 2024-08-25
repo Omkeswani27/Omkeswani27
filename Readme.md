@@ -30,4 +30,3 @@ Here are some projects I've worked on:
 
 - GitHub: [GitHub Profile](https://github.com/Omkeswani27)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/om-keswani-4995262a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Instagram: [Instagram Profile](https://www.instagram.com/keswani_om_?igsh=OXdhd3ptYXZxNGhp)
