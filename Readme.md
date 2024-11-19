@@ -1,32 +1,61 @@
-# Hello, I'm Om Keswani! 👋
+# 🌟 Om Keswani  
 
-I'm a second year LJIET Student  at Ahemdabad. Welcome to my GitHub profile!
+**BTech Student | Aspiring Cybersecurity Specialist | Full-Stack Developer**  
 
-## About Me
+## 👋 About Me  
 
-- 🔭 I’m currently working on Cafe website.
-- 🌱 I’m currently learning Express.js.
-- 💬 Ask me about JS, NPM, JAVA, Python, C, C++, DS, SQL, PHP.
-- 📫 How to reach me: omkeswani6@gmail.com
-  
-## Skills
+Hello! I’m Om Manohar Keswani, a 3rd-year BTech student at **LJ Institute of Engineering and Technology (LJIET)**. I am passionate about exploring technology, building innovative solutions, and continuously learning.  
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+🔒 **Cybersecurity Enthusiast:** Actively diving into ethical hacking and cybersecurity to sharpen my technical skills.  
+💡 **Creative Developer:** From front-end design to back-end logic, I enjoy crafting full-stack solutions.  
+🌍 **Adventurer at Heart:** I love exploring new places, meeting people, and enjoying meaningful conversations.  
+
+## 🛠️ Skills 
+
+### 🌐 Front-End Development  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
+
+### ⚙️ Back-End Development  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-68217A?style=for-the-badge&logo=.net&logoColor=white)  
+
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+### 💻 Programming Languages  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+### 🎨 Design Tools  
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Omkeswani27&theme=buefy)](https://git.io/streak-stats)
+## 📊 GitHub Stats  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkeswani27&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-## Projects
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Omkeswani27&theme=dark)](https://git.io/streak-stats)
 
-Here are some projects I've worked on:
-
-- Cupfull Delights: it is a coffee shop we can buy many types of coffees.
-- Story Teller: it is python based game.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkeswani27&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## 📌 Interests  
 
-## Connect with Me
+- Ethical Hacking & Cybersecurity 🛡️  
+- Full-Stack Development 💻  
+- Exploring New Places 🌏  
+- Creative Problem-Solving 🎨🧩  
 
-- GitHub: [GitHub Profile](https://github.com/Omkeswani27)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/om-keswani-4995262a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## 📫 Contact Me  
+
+📧 **Email:** [omkeswani6@gmail.com]  
+🔗 **LinkedIn:** [Om Keswani](https://www.linkedin.com/in/om-keswani-4995262a5/)  
+
+🌟 *“Learning, growing, and building something amazing!”*  
