@@ -55,7 +55,8 @@ Hello! I’m Om Manohar Keswani, a 3rd-year BTech student at **LJ Institute of E
 
 ## 📫 Contact Me  
 
-📧 **Email:** [omkeswani6@gmail.com]  
+📧 **Email:** [omkeswani6@gmail.com](omkeswani6@gmail.com)
+
 🔗 **LinkedIn:** [Om Keswani](https://www.linkedin.com/in/om-keswani-4995262a5/)  
 
 🌟 *“Learning, growing, and building something amazing!”*  
