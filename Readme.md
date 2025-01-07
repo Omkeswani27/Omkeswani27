@@ -41,9 +41,9 @@ Hello! I’m Om Manohar Keswani, a 3rd-year BTech student at **LJ Institute of E
 
 ## 📊 GitHub Stats  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkeswani27&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkeswani27&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkeswani27&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkeswani27&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Omkeswani27)](https://github.com/ryo-ma/github-profile-trophy)
 ## 📌 Interests  
