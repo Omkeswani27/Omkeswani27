@@ -41,9 +41,26 @@ Hello! I’m Om Manohar Keswani, a 3rd-year BTech student at **LJ Institute of E
 
 ## 📊 GitHub Stats  
 
-<img width=390 src="https://streak-stats.demolab.com/?user=Omkeswani27&count_private=true&theme=white&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Omkeswani27&show_icons=true&theme=white&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkeswani27&hide=HTML&langs_count=8&layout=compact&theme=white&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <p align="center">
+  <a href="https://github.com/Omkeswani27">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkeswani27&theme=radical&border=7F3FBF&background=0D1117" alt="Om's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Omkeswani27">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omkeswani27&theme=radical" alt="Om's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/Omkeswani27"><img alt="Om's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Omkeswani27&show_icons=true&rank_icon=github&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Omkeswani27"><img alt="Om's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Omkeswani27&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+[![Om's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Omkeswani27&bg_color=030203&color=ff00ee&line=e605d7&point=d7e1cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Omkeswani27)](https://github.com/ryo-ma/github-profile-trophy)
 ## 📌 Interests  
