@@ -4,7 +4,7 @@
 
 ## 👋 About Me  
 
-Hello! I’m Om Manohar Keswani, a 3rd-year BTech student at **LJ Institute of Engineering and Technology (LJIET)**. I am passionate about exploring technology, building innovative solutions, and continuously learning.  
+Hello! I’m Om Keswani, a 3rd-year BTech student at **LJ Institute of Engineering and Technology (LJIET)**. I am passionate about exploring technology, building innovative solutions, and continuously learning.  
 
 🔒 **Cybersecurity Enthusiast:** Actively diving into ethical hacking and cybersecurity to sharpen my technical skills.  
 💡 **Creative Developer:** From front-end design to back-end logic, I enjoy crafting full-stack solutions.  
